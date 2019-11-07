@@ -1,5 +1,6 @@
 # challenge-1MAC-
 Python application Used to publish and get suggestions based on a fake database
+<img src="appscreenshot.JPG" alt="img">
 
 ## How It Works:
     0. this applaction depend on Path (every recomend has it's path and also new recommends).
